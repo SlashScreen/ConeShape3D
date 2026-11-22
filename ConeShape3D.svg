@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <linearGradient id="linear-gradient-1" x1="2.522" y1="6.039" x2="9.107" y2="8.838" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a2d2ff"/>
+      <stop offset="1" stop-color="#5fb2ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="2.488" y1="6.104" x2="8.123" y2="8.118" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a2d2ff"/>
+      <stop offset="1" stop-color="#5fb2ff"/>
+    </linearGradient>
+  </defs>
+  <title>ConeShape3D.svg</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path d="M15 12 C15 13.657 11.866 15 8 15 C4.134 15 1 13.657 1 12 C1 10.343 4.134 9 8 9 C11.866 9 15 10.343 15 12 Z" fill="url(#linear-gradient-1)"/>
+    <path d="M7.958 0.871 L14.719 11.155 C14.719 11.155 15.556 14.801 7.958 14.801 C-0.048 14.801 1.326 11.093 1.326 11.093 Z" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>
